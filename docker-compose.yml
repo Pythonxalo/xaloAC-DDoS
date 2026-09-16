@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  xaloac-ddos:
+    build: .
+    container_name: xaloac-ddos
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./config.json:/app/config.json
+      - ./files:/app/files
