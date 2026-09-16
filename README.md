@@ -1,3 +1,5 @@
+https://discord.gg/psq6P3fVvN
+
 # xaloAC DDoS Tool v1.0
 
 > Gelişmiş, çok metotlu DDoS aracı.
